@@ -20,7 +20,8 @@ Ensure you have Python 3.7+ installed. You will also need an internet connection
    git clone https://github.com/Ayush0717/ImageSearchAI.git
    cd ImageSearchAI
    ```
-Create a virtual environment (optional but recommended):
+Create a virtual environment (optional but recommended)
+Delete the contents of ChromaDb if running Db.py (optional but recommended)
 
 
 **Usage**
