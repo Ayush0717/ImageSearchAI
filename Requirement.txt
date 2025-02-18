@@ -8,3 +8,4 @@ requests
 Pillow
 numpy
 scikit-learn
+chromadb
